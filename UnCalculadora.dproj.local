@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/08/29 02:57:24.000.987,=C:\Users\domme\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/08/29 03:12:33.000.958,C:\Users\domme\Documents\Embarcadero\Studio\Projects\Calculadora.dfm=C:\Users\domme\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/08/29 03:12:33.000.958,C:\Users\domme\Documents\Embarcadero\Studio\Projects\Calculadora.pas=C:\Users\domme\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/08/29 03:12:49.000.661,C:\Users\domme\Documents\Embarcadero\Studio\Projects\UnPrincipal.dproj=C:\Users\domme\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/08/30 17:15:19.377,C:\Users\domme\Desktop\Programação\DELPHI\Calculadora\Calculadora.dfm=C:\Users\domme\Documents\Embarcadero\Studio\Projects\Calculadora.dfm</Transaction>
+    <Transaction>2025/08/30 17:15:19.377,C:\Users\domme\Desktop\Programação\DELPHI\Calculadora\Calculadora.pas=C:\Users\domme\Documents\Embarcadero\Studio\Projects\Calculadora.pas</Transaction>
+    <Transaction>2025/08/30 17:15:46.102,C:\Users\domme\Desktop\Programação\DELPHI\Calculadora\UnCalculadora.dproj=C:\Users\domme\Documents\Embarcadero\Studio\Projects\UnPrincipal.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
